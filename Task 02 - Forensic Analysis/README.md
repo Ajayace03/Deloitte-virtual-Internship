@@ -37,4 +37,6 @@ Daikibo Industrials raised internal concerns about **gender inequality in salary
 ---
 
 ## 📂 Files in this Task
+   - Equality_table.xlsx
+   
 
