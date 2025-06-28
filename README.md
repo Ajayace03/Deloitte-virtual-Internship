@@ -1,4 +1,4 @@
-# Deloitte Virtual Internship (Forage)
+# Deloitte Technology Consulting Virtual Internship (Forage)
 
 This repository contains my work for the **[Deloitte Technology Consulting Virtual Internship](https://www.deloitte.com/au/en/careers/students/virtual-internship.html)** hosted on [Forage](https://www.theforage.com/).
 
