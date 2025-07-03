@@ -33,9 +33,11 @@ Analyzed compensation equality scores across job roles and factories using Excel
 
 ## 🙋‍♂️ About Me
 
-I’m an AI & Data Science student passionate about building smart systems and solving real-world problems through intelligent technologies.
+I’m an AI & Data Science Enthusiast passionate about building smart systems and solving real-world problems through intelligent technologies.
+Prepared by: **Ajay**  
 
-- GitHub: [Ajayace03](https://github.com/Ajayace03)  
+- GitHub   : [Ajayace03](https://github.com/Ajayace03)  
+- Linkedin :  [LinkedIn](https://linkedin.com/in/ajay-bharathi-ace) or open an issue on this repository.
 ---
 
 > 🚀 *Learning by doing is the best way to grow — this internship was an excellent opportunity to apply that mindset!*
