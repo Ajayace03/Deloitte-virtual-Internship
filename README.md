@@ -8,7 +8,7 @@ A self-paced, free online program simulating real Deloitte projects. It focuses 
 - Data Analysis  
 - Software Development  
 - Cybersecurity  
-- Forensic Technology  
+- Forensic Technology 
 
 ---
 
